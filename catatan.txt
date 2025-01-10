@@ -1,0 +1,17 @@
+Judul: apaya
+Isi: luka liku hidup
+---------------------------
+Judul: dadf
+Isi: fsfef
+---------------------------
+Judul: email
+Email/Username: bintang
+Password: dfdfd
+---------------------------
+Judul: aefef
+Isi: aefeafeafaef
+---------------------------
+Judul: hoho'
+Isi: hahahahahahahahahaha
+Prioritas: sedang
+---------------------------
